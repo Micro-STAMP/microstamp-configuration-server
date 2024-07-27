@@ -1,2 +1,3 @@
-# microstamp-configuration-server
+# Microstamp Configuration Srver
+
 Configuration Server implementation for MicroSTAMP
