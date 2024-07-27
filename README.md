@@ -1,3 +1,3 @@
-# Microstamp Configuration Srver
+# Microstamp Configuration Server
 
-Configuration Server implementation for MicroSTAMP
+Configuration Server implementation for MicroSTAMP using Spring Cloud Config Server.
